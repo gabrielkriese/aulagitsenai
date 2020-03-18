@@ -1,0 +1,4 @@
+    Git é um sistema de controle de versões distribuído,usado principalmente no desenvolvimento de software, 
+mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+e usado para que possamos desenvolver projetos , onde diversas pessoas possam contribuir simultaneamente ,
+ao meu ver e a ferramente principal que qualquer desencolvedor precisa.
